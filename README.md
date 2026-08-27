@@ -12,16 +12,16 @@
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
      
 ### LEARNING OUTCOMES       
-For the successful completion of this course, a student should be able to: | Evaluation methods and criteria:
-:--- | :--- 
-Employ scientific reasoning and logical thinking. | Students complete technical exercises, flow-charts, short study assignments, and projects employing logic-based computation.
-Use creativity to solve problems. | Students use creative thinking in order to apply technical concepts to build code-driven interactive media projects.
-Gather, interpret, evaluate, and apply information discerningly from a variety of sources. | Students complete assignments and projects based on synthesis from multiple sources: in-class lectures and demos, readings and technical exercises, reference materials, and targeted independent research.
-Develop literacy for reading and writing in a coding language. | Students write original code and “comment” pre-existing code into plain language.  
-Recognize and articulate computational strategies used in contemporary interactive media projects. | In class discussions, students evaluate computational strategies used in wide ranging creative projects. Students articulate interactive models used in their on projects.
-Demonstrate learning and problem-solving methodologies, including use of coding reference, documentation materials, and flow charting. | Technical exercises and assignments requiring use of reference materials in addition to materials covered in class. Students complete flow-charting assignments to demonstrate comprehension. 
-Implement foundational coding concepts and techniques to realize interactive software experiences, including use of: variables, logical comparison, and arithmetic operators; conditionals, functions; loops; arrays; and an introduction to Object Oriented Programming. | Weekly short study assignments and projects requiring implementation of these concepts and techniques.
-Design, develop, debug, and iterate an interactive software experience from ideation through final project presentation. | Students complete project deliverables demonstrating each project phase.   
+| For the successful completion of this course, a student should be able to: | Evaluation methods and criteria: |
+| :--- | :--- |
+| Employ scientific reasoning and logical thinking. | Students complete technical exercises, flow-charts, short study assignments, and projects employing logic-based computation. |
+| Use creativity to solve problems. | Students use creative thinking in order to apply technical concepts to build code-driven interactive media projects. |
+| Gather, interpret, evaluate, and apply information discerningly from a variety of sources. | Students complete assignments and projects based on synthesis from multiple sources: in-class lectures and demos, readings and technical exercises, reference materials, and targeted independent research. |
+| Develop literacy for reading and writing in a coding language. | Students write original code and “comment” pre-existing code into plain language. |
+| Recognize and articulate computational strategies used in contemporary interactive media projects. | In class discussions, students evaluate computational strategies used in wide ranging creative projects. Students articulate interactive models used in their on projects. |
+| Demonstrate learning and problem-solving methodologies, including use of coding reference, documentation materials, and flow charting. | Technical exercises and assignments requiring use of reference materials in addition to materials covered in class. Students complete flow-charting assignments to demonstrate comprehension. |
+| Implement foundational coding concepts and techniques to realize interactive software experiences, including use of: variables, logical comparison, and arithmetic operators; conditionals, functions; loops; arrays; and an introduction to Object Oriented Programming. | Weekly short study assignments and projects requiring implementation of these concepts and techniques. |
+| Design, develop, debug, and iterate an interactive software experience from ideation through final project presentation. | Students complete project deliverables demonstrating each project phase. |
 
 ### STRUCTURE  
 The course combines lectures and presentations, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with creative short study projects that integrate the techniques we learn. There will be two larger interactive software projects during the semester - a midterm and final project - largely independently driven, with iterative project development.            
@@ -105,23 +105,23 @@ _**All work must be submitted on time. Late assignments will not be accepted.** 
 ## COURSE SCHEDULE / CALENDAR  
 _The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub each week._  
 
-Date | Topic | Technique 
-:--- | :--- | :--- 
-| **8/28 <br> Session 1** |  <ul> <li>Introductions</li> <li>Course Overview</li> <li> What is Computational Art and Design?</li> <li>File Structure Basics</li><li>Introduction to Git and GitHub</li></ul> | <ul><li>Version control with Git and managing a GitHub repository</li></ul>
-| **9/4 <br> Session 2** |  <ul> <li>Drawing with Algorithms: Instructions-Based Art and Design</li><li> Exploring the p5.js library </li></ul> | <ul> <li>Introduction to Visual Studio Code</li><li>Introduction to .js, .html, .css files and structure</li> <li> Introduction to programming structure, comments, syntax </li> <li>Review of relevant geometry concepts. </li><li>Drawing with the p5.js library: coordinates, points, lines, primitives, colors </li></ul>
-| **9/11 <br> No class session** | <hr> | <hr>
-| **9/18 <br> Session 3** |  <ul> <li>Interactive Images and User Input  </li></ul> | <ul><li>Program flow: setup() and draw(), code blocks </li> <li> Variables- data types, declaration, initialization </li> <li> Variable scope (global, block, function) </li> <li> Operators: arithmetic (including modulus), boolean, comparison  </li> <li> Basic user input using mouse and keyboard </li></ul>
-| **9/25 <br> Session 4** | <ul> <li>Functions and Modularity </li> <li>Creating Uncertainty </li></ul> | <ul> <li>Creating user-defined functions  </li> <li>Function arguments and parameters </li> <li>Return statement</li> <li>Random function</li> <li>Event functions </li></ul>
-| **10/2 <br> Session 5** |  <ul> <li>The "If" Conditions for Interactivity </li> <li>Programming State Changes Part 1 </li><li>Introduction to Midterm Projects </li> </ul>| <ul> <li>Conditional statements  </li> <li>Intro to flow charting and designing for interactivity</li> <li>Coding state changes </li> </ul>
-| **10/9 <br> Session 6** | <ul> <li>Time-Based Media, Strategies for Animation </li><li>Interface review - graphical buttons, overlay triggers, etc.</li></ul> | <ul> <li>Loading external media assets: images and fonts </li> <li>Working with motion: speed, direction, translation, easing, and interpolation </li> <li>Variable incrementation and de-incrementation </li> <li>System clock, millis(), one-time + repeating timers </li></ul>
-| **10/16 <br> Session 7** |  <ul> <li>Review and Special Topics Related to Midterm (By Request)</li> <li>Playtesting Midterm WIP </li> </ul> | <ul> <li>Review and special topics </li> </ul>
-| **10/23 <br> Session 8** |  <ul> <li>Midterm Project Presentations </li> </ul> | <ul> <li>Critique of midterm projects</li> </ul>
-| **10/30 <br> Session 9** |  <ul> <li>Iteration and Patterns</li> </ul> | <ul> <li>While and for loops </li> </ul>
-| **11/6 <br> Session 10** |  <ul> <li>Storing Data in Arrays</li> </ul> | <ul> <li>Working with Arrays</li> </ul>
-| **11/13 <br> Session 11** |  <ul> <li>Introduction to Object Oriented Programming</li> <li>Introduction to Final Projects </li> </ul> | <ul> <li>Objects and classes </li> <li>Constructor and methods</li> <li>Arrays of objects </li> </ul>
-| **11/20 <br> Session 12** |  <ul> <li>OOP "Remix" / OOP Review Continued  </li> <li>Working with Libraries </li> <li>p5 Sound Library</li> </ul> | <ul> <li>Constructing and deconstructing OOP classes, Continued </li> <li>Implementing libraries </li> </ul>
-| **11/27 <br> No class session** | <hr> | <hr>
-| **12/4 <br> Session 13** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects</li> <li>Hosting p5.js Projects Online</li> </ul> | <ul> <li>Deploy a website using GitHub repository</li> </ul>
-| **12/11 <br> Session 14** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects </li> <li>Special Topics / Review</li> </ul> | 
-| **12/18 <br> Session 15** | <ul> **FINAL PROJECTS DUE: Project Presentations / Critiques** </ul>
+| Date | Topic | Technique |
+| :--- | :--- | :--- |
+| **8/28 <br> Session 1** | <ul> <li>Introductions</li> <li>Course Overview</li> <li> What is Computational Art and Design?</li> <li>File Structure Basics</li><li>Introduction to Git and GitHub</li></ul> | <ul><li>Version control with Git and managing a GitHub repository</li></ul> |
+| **9/4 <br> Session 2** | <ul> <li>Drawing with Algorithms: Instructions-Based Art and Design</li><li> Exploring the p5.js library </li></ul> | <ul> <li>Introduction to Visual Studio Code</li><li>Introduction to .js, .html, .css files and structure</li> <li> Introduction to programming structure, comments, syntax </li> <li>Review of relevant geometry concepts. </li><li>Drawing with the p5.js library: coordinates, points, lines, primitives, colors </li></ul> |
+| **9/11 <br> No class session** | <hr> | <hr> |
+| **9/18 <br> Session 3** | <ul> <li>Interactive Images and User Input  </li></ul> | <ul><li>Program flow: setup() and draw(), code blocks </li> <li> Variables- data types, declaration, initialization </li> <li> Variable scope (global, block, function) </li> <li> Operators: arithmetic (including modulus), boolean, comparison  </li> <li> Basic user input using mouse and keyboard </li></ul> |
+| **9/25 <br> Session 4** | <ul> <li>Functions and Modularity </li> <li>Creating Uncertainty </li></ul> | <ul> <li>Creating user-defined functions  </li> <li>Function arguments and parameters </li> <li>Return statement</li> <li>Random function</li> <li>Event functions </li></ul> |
+| **10/2 <br> Session 5** | <ul> <li>The "If" Conditions for Interactivity </li> <li>Programming State Changes Part 1 </li><li>Introduction to Midterm Projects </li> </ul> | <ul> <li>Conditional statements  </li> <li>Intro to flow charting and designing for interactivity</li> <li>Coding state changes </li> </ul> |
+| **10/9 <br> Session 6** | <ul> <li>Time-Based Media, Strategies for Animation </li><li>Interface review - graphical buttons, overlay triggers, etc.</li></ul> | <ul> <li>Loading external media assets: images and fonts </li> <li>Working with motion: speed, direction, translation, easing, and interpolation </li> <li>Variable incrementation and de-incrementation </li> <li>System clock, millis(), one-time + repeating timers </li></ul> |
+| **10/16 <br> Session 7** | <ul> <li>Review and Special Topics Related to Midterm (By Request)</li> <li>Playtesting Midterm WIP </li> </ul> | <ul> <li>Review and special topics </li> </ul> |
+| **10/23 <br> Session 8** | <ul> <li>Midterm Project Presentations </li> </ul> | <ul> <li>Critique of midterm projects</li> </ul> |
+| **10/30 <br> Session 9** | <ul> <li>Iteration and Patterns</li> </ul> | <ul> <li>While and for loops </li> </ul> |
+| **11/6 <br> Session 10** | <ul> <li>Storing Data in Arrays</li> </ul> | <ul> <li>Working with Arrays</li> </ul> |
+| **11/13 <br> Session 11** | <ul> <li>Introduction to Object Oriented Programming</li> <li>Introduction to Final Projects </li> </ul> | <ul> <li>Objects and classes </li> <li>Constructor and methods</li> <li>Arrays of objects </li> </ul> |
+| **11/20 <br> Session 12** | <ul> <li>OOP "Remix" / OOP Review Continued  </li> <li>Working with Libraries </li> <li>p5 Sound Library</li> </ul> | <ul> <li>Constructing and deconstructing OOP classes, Continued </li> <li>Implementing libraries </li> </ul> |
+| **11/27 <br> No class session** | <hr> | <hr> |
+| **12/4 <br> Session 13** | <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects</li> <li>Hosting p5.js Projects Online</li> </ul> | <ul> <li>Deploy a website using GitHub repository</li> </ul> |
+| **12/11 <br> Session 14** | <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects </li> <li>Special Topics / Review</li> </ul> |  |
+| **12/18 <br> Session 15** | <ul> **FINAL PROJECTS DUE: Project Presentations / Critiques** </ul> |  |
 

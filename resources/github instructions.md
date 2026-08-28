@@ -17,17 +17,17 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
     * You should see a prompt asking where you'd like to locally clone your repository. Keep the default path, or modify it to a different location, and select the "clone" button. You may receive an error that "Git can only clone to empty folders." In this case, modify the file path and create a new empty folder for the repo to clone to. Select the "clone" button.
     * You should now have your repo online at GitHub.com and cloned locally on your computer. Double check both locations. 
 
-6.  **Go through all past assignments and re-label as needed**:  
-     * All assignments should each be in their own p5.js project folder labeled with the short study # and title (SS#_Title), making sure that required project files are contained within. For example, a project should be contained within folder "SS1_SunnyDay". Inside that folder would be a "sketch.js" file, a "libraries" folder, and all other required p5.js project files.
-
-7.  **Push your files to GitHub**:  
-    * Place your SS1 folder into your **_local_** GitHub repository (stored on your computer).   
+6.  **Push your files to GitHub**:  
+    * Open the README file in a text editor, and try writing something, then saving the file.
     * Go back to the GitHub Desktop app. You should see a notice of uncommitted changes, because your local repo just changed.   
     * Select the changes that you want to commit, and write a summary of the commit within the summary field (for example: “add SS1”).  
     * Select “commit to main. You should now see no more uncommitted changes.   
     * **One more very critical step!** Currently, your commits are saved to your local repo, and we want to mirror these changes on the online repo. To do this, we "push" the commits. In the desktop app menu, go to Repository--> Push.   
-    * Check your online repo. You should see your SS1 folder there now.    
-    * Go through the same process for any remaining assignments.
+    * Check your online repo. You should see the changes to your README there now.    
+
+7.  **Go through all past assignments and re-label as needed**:  
+    * All assignments should each be in their own p5.js project folder labeled with the short study # and title (SS#_Title), making sure that required project files are contained within. For example, a project should be contained within folder "SS1_SunnyDay". Inside that folder would be a "sketch.js" file, a "libraries" folder, and all other required p5.js project files.
+    * Once all assignments are in the correctly labled folders inside your local repositry, go back to Github Desktop and commit **and push** your changes.
 
 8.  **As you continue to work on assignments**:  
     * Any time you make a change to files within your local repo, you should see the uncommitted changes appear on the GitHub Desktop app.   

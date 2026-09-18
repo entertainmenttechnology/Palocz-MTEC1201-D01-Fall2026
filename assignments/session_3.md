@@ -1,4 +1,4 @@
-## DUE FRIDAY, 2/20
+## DUE FRIDAY, 9/25
 
 ### **Short Study #2: Responsive Drawing**  
 Create a responsive drawing using p5.js involving user input, inspired by the theme you have chosen for this series of sketches. You may use the previous assignment as a starting point, or begin a completely new sketch.

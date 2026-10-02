@@ -19,6 +19,8 @@ let r = 0;
 let g = 255;
 let b = 0;
 
+const size = 100;
+
 function setup()
 {
 	createCanvas(700, 700);
@@ -32,19 +34,19 @@ function draw()
 {
 	background(75);
 	fill(r, g, b);
-	ellipse(x, y, 100, 100);
+	ellipse(x, y, size, size);
 	
 	//increment X & Y location based on Move amount
 	x += xMove; //same as: x = x + xMove
 	y += yMove;	//same as: y = y + yMove
 	
 	//if X or Y position goes beyond bounds of canvas, flip direction
-	if (x >= width || x <= 0)
+	if (x >= width - size/2 || x <= size/2)
 	{
 		xMove = -xMove; // reverse X movement direction
 	}
 	
-	if (y >= height || y <= 0)
+	if (y >= height - size/2 || y <= size/2)
 	{
 		yMove = -yMove; //reverse Y movement direction
 	}

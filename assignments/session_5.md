@@ -1,4 +1,4 @@
-## Due before class on Friday, 3/6
+## Due before class on Friday, 10/9
 
 
 ### **Short Study #4: Interaction with Conditionals **    

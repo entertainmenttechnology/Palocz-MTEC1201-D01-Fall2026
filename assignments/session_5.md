@@ -1,7 +1,7 @@
 ## Due before class on Friday, 10/9
 
 
-### **Short Study #4: Interaction with Conditionals **    
+### **Short Study #4: Interaction with Conditionals**    
 
 Building upon your chosen theme, create a responsive sketch in p5.js including:    
 * At least one conditional statement **using if, else if, AND else**

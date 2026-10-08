@@ -9,13 +9,20 @@ _A collection of useful resources and references. This is a living document — 
 ### City Tech Resources    
 [Getting connected with City Tech wifi](http://it.citytech.cuny.edu/student-wifi.aspx)     
 [City Tech Student Hub](https://www.citytech.cuny.edu/current-student/)    
+[Conmputer Science Tutoring Hours](https://www.citytech.cuny.edu/computer-systems/tutoring.aspx )
   
 ### p5.js Library 
+[p5.js cheat sheet](https://bmoren.github.io/p5js-cheat-sheet/)
 [p5.js home](https://p5js.org/)    
 [VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)                  
 [Reference](https://p5js.org/reference/)  
 [Examples](https://p5js.org/examples/)  
 [Books](https://p5js.org/books/)  
+
+### General Reference
+[List of CSS color names](https://www.w3schools.com/cssref/css_colors.php)
+[MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ### GitHub 
 [GitHub Desktop - Getting Started](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)     
@@ -31,5 +38,3 @@ _A collection of useful resources and references. This is a living document — 
 [The Coding Train - Youtube](https://www.youtube.com/user/shiffman/playlists)   
 [The Coding Train - p5.js Tracks](https://thecodingtrain.com/tracks/lang/p5-js/topic/all)   
 
-### MDN Guide for "Plain" JavaScript  
-[MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

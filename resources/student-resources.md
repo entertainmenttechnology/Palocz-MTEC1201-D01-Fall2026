@@ -21,6 +21,7 @@ _A collection of useful resources and references. This is a living document — 
 
 ### General Reference
 [List of CSS color names](https://www.w3schools.com/cssref/css_colors.php)
+
 [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 

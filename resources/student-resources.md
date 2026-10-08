@@ -12,7 +12,7 @@ _A collection of useful resources and references. This is a living document — 
 [Conmputer Science Tutoring Hours](https://www.citytech.cuny.edu/computer-systems/tutoring.aspx )
   
 ### p5.js Library 
-[p5.js cheat sheet](https://bmoren.github.io/p5js-cheat-sheet/)
+[p5.js cheat sheet](https://bmoren.github.io/p5js-cheat-sheet/)    
 [p5.js home](https://p5js.org/)    
 [VS Code & p5.js setup](https://p5js.org/tutorials/setting-up-your-environment/)                  
 [Reference](https://p5js.org/reference/)  
@@ -20,8 +20,7 @@ _A collection of useful resources and references. This is a living document — 
 [Books](https://p5js.org/books/)  
 
 ### General Reference
-[List of CSS color names](https://www.w3schools.com/cssref/css_colors.php)
-
+[List of CSS color names](https://www.w3schools.com/cssref/css_colors.php)    
 [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 

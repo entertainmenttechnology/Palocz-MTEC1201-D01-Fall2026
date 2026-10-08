@@ -33,8 +33,7 @@ Operators:
 
 ## **Supplemental/Optional:**    
 I recommend this [interactivity](https://archive.p5js.org/learn/interactivity.html) tutorial for further review of interactive basics.  
-For video tutorials relating to this week's topics, check out The Coding Train:  
-* [random()](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/4-random)    
+For video tutorials relating to this week's topics, check out The Coding Train:     
 * [conditional statements](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals)  
 * [bouncing ball example](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/2-bouncing)  
 * [else and else if, and, or](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/3-else-if-and-or). 

@@ -6,7 +6,8 @@
 const numPoints = 10;
 
 // size of the circles to draw
-const diameter = 20;
+const diameter = 40;
+const radius = diameter/2
 
 // arrays to track the x and y coordinates of the circles
 let pointsX = [];
@@ -15,16 +16,17 @@ let pointsY = [];
 function setup() 
 {
 	createCanvas(800, 800);
+	noStroke();
 
 	// fill the pointsX and pointsY arrays with random values
 	for(let i = 0; i < numPoints; i ++) {
-		pointsX[i] = random(0, width);
-		pointsY[i] = random(0, height);
+		pointsX[i] = random(radius, width - radius);
+		pointsY[i] = random(radius, height - radius);
 	}
 
 }
 function draw() {
-	background("white");
+	background(220);
 
 	// iterate through the arrays of points
 	for(let i = 0; i < pointsX.length; i++) {
@@ -40,7 +42,7 @@ function draw() {
 		
 		// if distance is smaller than the circle radius, 
 		// the mouse is inside the circle
-		if(distance < diameter/2) {
+		if(distance < radius) {
 			fill("red");
 		}
 
@@ -57,7 +59,7 @@ function mousePressed() {
 		let distance = dist(mouseX, mouseY, pointsX[i], pointsY[i]);
 		
 		// check if the mouse is inside the circle
-		if(distance < diameter/2) {
+		if(distance < radius) {
 			// modify the arrays to remove the elements at index i
 			// splice takes an index (i) and number of elements to delete (1)
 			pointsX.splice(i,1);
@@ -69,7 +71,7 @@ function mousePressed() {
 // when a key is pressed, add a new circle at a random point
 function keyPressed() {
    // push a new random value into pointsX and pointsY
-   pointsX.push(random(0, width));
-   pointsY.push(random(0, height));
+   pointsX.push(random(radius, width - radius));
+   pointsY.push(random(radius, height - radius));
 	
 }

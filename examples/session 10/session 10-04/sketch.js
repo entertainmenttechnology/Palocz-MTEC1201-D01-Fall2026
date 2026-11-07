@@ -23,7 +23,7 @@ let h = 0;
 function setup() 
 {
 	createCanvas(600, 600);
-	rectMode(CENTER);
+	noStroke();
 	
 	//using for loop, populate array with the squares of 4 thru 12
 	for (let i = 4; i <= 12; i++)
@@ -52,8 +52,19 @@ function draw()
 		w = arrayVal[int(random(4, arrayVal.length - 1))];
 		h = arrayVal[int(random(1, arrayVal.length - 2))];
 	}
-	
+	// fill background color with the last random rgb
 	background(r, g, b);
+
+	// draw a rectangle with the last random values
+	rectMode(CENTER);
 	fill(b, r, g); //switching order of RGB, just for fun!
 	rect(width/2, height/2, w, h);
+
+	// draw progress wipe across canvas to show the timer
+	// use the map() function to map time range to width range
+	let progressW = map(currentTime - prevTime, 0, timer, 0, width);
+	rectMode(CORNER);
+	fill(255, 10);
+	rect(0, 0, progressW, height);
+
 }
